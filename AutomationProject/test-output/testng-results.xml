@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-26T16:35:21 EDT" name="AutomationExerciseSuite" finished-at="2025-06-26T16:36:22 EDT" duration-ms="61270">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T16:35:21 EDT" name="FullTestSuite" finished-at="2025-06-26T16:36:22 EDT" duration-ms="61270">
+      <class name="Test.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LogoutTest@5bda8e08]" started-at="2025-06-26T16:36:10 EDT" name="setup" finished-at="2025-06-26T16:36:15 EDT" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogoutFunctionality()[pri:0, instance:Test.LogoutTest@5bda8e08]" started-at="2025-06-26T16:36:15 EDT" name="testLogoutFunctionality" finished-at="2025-06-26T16:36:22 EDT" duration-ms="6826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutFunctionality -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.LogoutTest@5bda8e08]" started-at="2025-06-26T16:36:22 EDT" name="close" finished-at="2025-06-26T16:36:22 EDT" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.LogoutTest -->
+      <class name="Test.ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.ProductPageTest@3eb738bb]" started-at="2025-06-26T16:35:58 EDT" name="setup" finished-at="2025-06-26T16:36:00 EDT" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddTwoProductsToCart()[pri:0, instance:Test.ProductPageTest@3eb738bb]" started-at="2025-06-26T16:36:00 EDT" name="testAddTwoProductsToCart" finished-at="2025-06-26T16:36:09 EDT" duration-ms="9702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddTwoProductsToCart -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.ProductPageTest@3eb738bb]" started-at="2025-06-26T16:36:09 EDT" name="close" finished-at="2025-06-26T16:36:10 EDT" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.ProductPageTest -->
+      <class name="Test.SigupTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.SigupTest@30c15d8b]" started-at="2025-06-26T16:35:21 EDT" name="setup" finished-at="2025-06-26T16:35:28 EDT" duration-ms="7333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testsignup()[pri:0, instance:Test.SigupTest@30c15d8b]" started-at="2025-06-26T16:35:28 EDT" name="testsignup" finished-at="2025-06-26T16:35:42 EDT" duration-ms="14431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsignup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.SigupTest@30c15d8b]" started-at="2025-06-26T16:35:42 EDT" name="close" finished-at="2025-06-26T16:35:43 EDT" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.SigupTest -->
+      <class name="Test.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@233795b6]" started-at="2025-06-26T16:35:43 EDT" name="setup" finished-at="2025-06-26T16:35:50 EDT" duration-ms="6924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:Test.LoginTest@233795b6]" started-at="2025-06-26T16:35:50 EDT" name="testLogin" finished-at="2025-06-26T16:35:57 EDT" duration-ms="7555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Test.LoginTest@233795b6]" started-at="2025-06-26T16:35:57 EDT" name="close" finished-at="2025-06-26T16:35:58 EDT" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- FullTestSuite -->
+  </suite> <!-- AutomationExerciseSuite -->
+</testng-results>
