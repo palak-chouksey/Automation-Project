@@ -38,7 +38,7 @@ Here’s what I used to build this:
 SeleniumJava/
 ├── test/
 │ └── java/
-| |── Base/ # Base class
+| |── Base/ # BaseTest class
 │ ├── Pages/ # Page Object classes
 │ ├── Test/ # TestNG test cases
 │
